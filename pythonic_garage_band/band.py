@@ -1,4 +1,5 @@
 class Band:
+
     instances = []
 
     def __init__(self, name, members):
@@ -8,8 +9,8 @@ class Band:
 
 
 class Musician:
-    pass
-
+    def __init__(self, name):
+        self.name = name
 
 class Guitarist:
     pass
