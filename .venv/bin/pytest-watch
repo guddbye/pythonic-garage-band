@@ -1,4 +1,4 @@
-#!/Users/brentice/Github/401/pythonic-garage-band/.venv/bin/python3
+#!/Users/brentice/Github/401/pythonic-garage-band/.venv/bin/python3.9
 # EASY-INSTALL-ENTRY-SCRIPT: 'pytest-watch==4.2.0','console_scripts','pytest-watch'
 import re
 import sys
